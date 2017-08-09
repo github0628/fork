@@ -24,7 +24,8 @@ namespace GitHubFolderDownloader.Core
 
             if (repositorySubDir == null)
             {
-                repositorySubDir = string.Empty;				
+                repositorySubDir = string.Empty;	
+      System				
             }
 
             var branchName = string.Empty;
